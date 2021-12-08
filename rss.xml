@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>Psatha - Restoran i Bar!</title>
+<link>https://uros676.github.io</link>
+<description>Budite u toku sa novostima vezane za nas!</description>
+<item>
+<title>Novo na meniju.</title>
+<link>https://uros676.github.io/price.html</link>
+<description>Ovde možete videti ponude za sva naša kola.</description>
+</item>
+<item>
+<title>Galerija restorana.</title>
+<link>https://uros676.github.io/gallery.html</link>
+<description>Pogledajte slike naših automobila i slike zadovoljnih kupaca!</description>
+</item>
+</channel>
+</rss>
